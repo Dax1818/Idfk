@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagerHanteringv2", "LagerHanteringv2\LagerHanteringv2.csproj", "{5D9368AD-DA7C-4DD6-88BE-FD5477F75C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9368AD-DA7C-4DD6-88BE-FD5477F75C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9368AD-DA7C-4DD6-88BE-FD5477F75C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9368AD-DA7C-4DD6-88BE-FD5477F75C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9368AD-DA7C-4DD6-88BE-FD5477F75C76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF61D87-EAF1-427B-8230-9D2D6587C101}
+	EndGlobalSection
+EndGlobal
